@@ -1,0 +1,10 @@
+spring:
+  data:
+    jpa:
+      repositories:
+        enabled: false
+    elasticsearch:
+      repositories:
+        enabled: false
+
+
